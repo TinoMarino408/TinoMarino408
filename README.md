@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Anthony!
+## Hi, I'm Anthony
 
 ** ✨ Real world evidence specialist - data analyst  | ☀️ Employed full-time with a healthcare solutions company based in Charlotte, NC | 🔬 Bachelor of Science - Biology, Master of Business Administration, Business Analytics concentration.
 
@@ -14,11 +14,11 @@
   •	Remote working technology: Sharepoint, MS Teams, Google Sheets, moveIT, WinSCP/Putty
   •	Regulation & Compliance: FDA, HIPAA, SOPs
 
-- 🔭 I’m currently working on data delivery operations for pharmaceutical and life science companies. I leverage the Prophecy data engineering platform, powered by Databricks, to build data pipelines and workflows, create documentation to improve transparency and knowledge-sharring, and summarize data tables that power Power BI and Tableau dashboards. My pipelines run on Databricks automated job runs that reduce manual errors, optimize code to improve efficiency, and create scalable reporting solutions.
+- 🔭 I’m currently working on data delivery operations for pharmaceutical and life science companies. I leverage Databricks to build data pipelines and workflows, create documentation to improve transparency and knowledge-sharing, and summarize data tables that power our reports and dashboards.
 
-- 🌱 I’m learning how to improve my reporting and data exploration abilities with Python/R/PySpark. I am curious to learn more about data science, building data architectures, and databasee management.
+- 🌱 I’m learning how to improve my reporting and data exploration abilities with Python/R/PySpark. I am curious to learn more about building data architectures, statistical analysis methods, and interactive visualization apps.
 
-- 👯 I’m looking to collaborate on and help with real world issues that can be solved with data-based story-telling.
+- 👯 I’m looking to collaborate on and help with real world issues that can be explained with data-based story-telling.
 
 - 💬 Ask me about: Exploring data with SQL, R, or Python, Egineering data pipelines with Databricks/Prophecy, or visualizing data with PowerBI or Tableau to convey your insights effectively.
 
