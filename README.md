@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on and help with real world issues that can be explained with data-based story-telling.
 
-- 💬 Ask me about: Exploring data with SQL, R, or Python, Egineering data pipelines with Databricks/Prophecy, or visualizing data with PowerBI or Tableau to convey your insights effectively.
+- 💬 Ask me about: Exploring data with SQL, R, or Python, Engineering data pipelines with Databricks/Prophecy, or visualizing data with PowerBI or Tableau to convey your insights effectively.
 
 - 📫 How to reach me: tinomarino408 at yahoo dot com
 
